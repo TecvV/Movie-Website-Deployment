@@ -1,0 +1,10 @@
+// Connecting Jenkins to GitLab
+// Step 1 - The following code is added to Jenkinsfile (present within GitLab Repo) - Written in DSL Scripting
+
+checkout([$class: 'GitSCH",
+branches: [[name: 'main' ]].
+userRemoteConfigs: [[url: "http://your-gitlab-server/root/estate']]
+
+//Step 2 - GitLab Repo > Settings > Webhooks > Add the Jenkins Webhook URL here > Select Push Events
+
+http://52.31.117.19:8880/gitlab/build-now
