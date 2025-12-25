@@ -2,6 +2,8 @@
 
 This project demonstrates automated deployment of a **Movie Application** using **Jenkins**, **GitLab**, and **Apache2** on test and production servers.
 
+Website deployed - https://spectacular-cupcake-7fc7e7.netlify.app/
+
 ## Table of Contents
 
 1. [Project Overview](#project-overview)  
