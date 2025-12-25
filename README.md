@@ -8,10 +8,6 @@ This project demonstrates automated deployment of a **Movie Application** using 
 2. [Prerequisites](#prerequisites)  
 3. [Infrastructure](#infrastructure)  
 4. [Jenkins Pipeline](#jenkins-pipeline)  
-5. [GitLab Webhook Setup](#gitlab-webhook-setup)  
-6. [Deployment Steps](#deployment-steps)  
-7. [Access Application](#access-application)  
-8. [Troubleshooting](#troubleshooting)  
 
 ## Project Overview
 
