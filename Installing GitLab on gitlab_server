@@ -1,0 +1,4 @@
+sudo apt update
+sudo apt install -y curl openssh-server ca-certificates tzdata perl
+curl -s https://packages.gitlab.com/install/repositories/gitlab/gitlab-ee/script.deb.sh | sudo bash
+sudo EXTERNAL_URL="http://51.20.118.17" apt install -y gitlab-ee
